@@ -68,36 +68,31 @@ GitHub Analytics
 
 
 
-## Swapnil's Contribution Calendar
 
 <div align="center">
 
-  <h2>Public Contributions</h2>
+  <h2>GitHub Contribution Calendar</h2>
 
-  <p><strong>A passionate developer, one contribution at a time.</strong></p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font= monospace&weight=700&size=32&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&lines=SWAPNIL+DUDHANE"
+    alt="Swapnil Dudhane"
+  />
 
-  <br/>
-
-  <a href="https://github.com/swap1930">
-    <img
-      src="https://ghchart.rshah.org/2ea44f/swap1930"
-      alt="Swapnil Dudhane's GitHub contribution calendar"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=monospace&weight=600&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer"
+    alt="Full Stack Developer and AI/ML Engineer"
+  />
 
   <br/><br/>
 
-  <p>
-    <sub>
-      My GitHub contribution activity.
-      Visit my
-      <a href="https://github.com/swap1930">GitHub profile</a>
-      for the official contribution history.
-    </sub>
-  </p>
+  <img
+    src="https://ghchart.rshah.org/2ea44f/swap1930"
+    alt="GitHub contribution squares"
+    width="100%"
+  />
 
 </div>
+
 
 
 
