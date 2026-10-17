@@ -1,11 +1,10 @@
 <div align="center">
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=75&lines=Welcome+to+my+GitHub+Profile;Hi%2C+I'm+Swapnil+Dudhane" alt="Welcome and name animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=900&height=75&lines=Welcome+to+my+GitHub+Profile;Hi%2C+I'm+Swapnil+Dudhane" alt="Welcome and name typing animation" />
 
 <p><strong>A passionate developer building practical solutions with Full Stack Development, AI, and Machine Learning.</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer;AI%2FML+Engineer" alt="Developer roles animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1800&color=C9D1D9&center=true&vCenter=true&width=900&height=50&lines=;Full+Stack+Developer;AI%2FML+Engineer" alt="Full Stack Developer and AI/ML Engineer typing animation" />
 
 </div>
 
