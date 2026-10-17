@@ -1,12 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/swap1930">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=80&lines=Hi%2C+I'm+Swapnil+Dudhane;Welcome+to+my+GitHub+Profile" alt="Typing animation introducing Swapnil Dudhane" />
-</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=800&color=C9D1D9&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+Practical+AI-Powered+Applications" alt="Typing animation showing Swapnil's roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=75&lines=Welcome+to+my+GitHub+Profile;Hi%2C+I'm+Swapnil+Dudhane" alt="Welcome and name animation" />
 
 <p><strong>A passionate developer building practical solutions with Full Stack Development, AI, and Machine Learning.</strong></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=900&height=50&lines=Full+Stack+Developer;AI%2FML+Engineer" alt="Developer roles animation" />
+
+</div>
 
 <a href="https://github.com/swap1930"><img src="https://img.shields.io/badge/GitHub-swap1930-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>  
   <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
