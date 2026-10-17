@@ -67,19 +67,38 @@ GitHub Analytics
 
 
 
-Swapnil's Contribution Calendar
+
+## Swapnil's Contribution Calendar
+
 <div align="center">
 
-  <h3>Public Contributions</h3>
+  <h2>Public Contributions</h2>
+
   <p><strong>A passionate developer, one contribution at a time.</strong></p>
 
+  <br/>
+
   <a href="https://github.com/swap1930">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swap1930&theme=github_dark" alt="GitHub contribution activity calendar and profile summary for Swapnil Dudhane" />
+    <img
+      src="https://ghchart.rshah.org/2ea44f/swap1930"
+      alt="Swapnil Dudhane's GitHub contribution calendar"
+      width="100%"
+    />
   </a>
 
-  <p><sub>This GitHub-style activity card uses the dark GitHub theme. For the official daily contribution squares and exact public contribution totals, visit the <a href="https://github.com/swap1930">GitHub profile</a>.</sub></p>
+  <br/><br/>
+
+  <p>
+    <sub>
+      My GitHub contribution activity.
+      Visit my
+      <a href="https://github.com/swap1930">GitHub profile</a>
+      for the official contribution history.
+    </sub>
+  </p>
 
 </div>
+
 
 
 Languages, Frameworks and Tools
