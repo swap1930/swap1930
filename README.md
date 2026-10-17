@@ -67,10 +67,33 @@ GitHub Analytics
 
 
 
-<!-- Save contribution-calendar.svg in the same repository as README.md -->
+
 <div align="center">
-  <img src="./contribution-calendar.svg" alt="Swapnil Dudhane — Full Stack Developer and AI/ML Engineer, shown in green contribution-style dots" width="100%" />
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 230" role="img" aria-label="Swapnil Dudhane — Full Stack Developer and AI/ML Engineer">
+  <defs>
+    <pattern id="contributionDots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="3" fill="#39d353"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="230" rx="8" fill="#0d1117" stroke="#30363d"/>
+
+  <text x="450" y="95" text-anchor="middle"
+        font-family="monospace" font-size="49" font-weight="bold"
+        fill="url(#contributionDots)">SWAPNIL DUDHANE</text>
+
+  <text x="450" y="145" text-anchor="middle"
+        font-family="monospace" font-size="22" font-weight="bold"
+        fill="url(#contributionDots)">FULL STACK DEVELOPER</text>
+
+  <text x="450" y="180" text-anchor="middle"
+        font-family="monospace" font-size="22" font-weight="bold"
+        fill="url(#contributionDots)">AI/ML ENGINEER</text>
+</svg>
+
 </div>
+
 
 
 
