@@ -1,30 +1,30 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Swapnil Dudhane</h1>
-  <h2 align="center">Full Stack Developer | AI/ML Engineer</h2>
-  <p align="center">
-    Building practical applications with full-stack technologies, machine learning, and AI.
-  </p>
-  <p align="center">
-    <a href="https://github.com/swap1930">
-      <img src="https://img.shields.io/badge/GitHub-swap1930-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <a href="mailto:swapnildudhane1930@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://instagram.com/swap_sd_30">
-      <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
-    </a>
-  </p>
+  <h1><strong>Hi, I'm Swapnil Dudhane</strong></h1>
+  <h2>Full Stack Developer | AI/ML Engineer</h2>
+  <p><strong>A passionate developer building practical solutions with Full Stack Development, AI, and Machine Learning.</strong></p>
+  <br />
+  <a href="https://github.com/swap1930">
+    <img src="https://img.shields.io/badge/GitHub-swap1930-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  &nbsp;
+  <a href="mailto:swapnildudhane1930@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/swap_sd_30">
+    <img src="https://img.shields.io/badge/Instagram-Profile-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram profile" />
+  </a>
 </div>
 
+
 About Me
-- Currently working on FocusOS.
+- Currently building FocusOS.
 - Learning Data Structures & Algorithms (DSA) and System Design.
 - Interested in Full Stack Development, Machine Learning, Deep Learning, and LLM applications.
-- I enjoy building practical applications that connect AI capabilities with useful user experiences.
+- I enjoy building useful applications that connect AI capabilities with real-world user needs.
 - Ask me about React, Next.js, Node.js, Python, FastAPI, Machine Learning, and AI integrations.
-- Explore my work in the repositories section.
-- Contact: swapnildudhane1930@gmail.com.
+- Browse my GitHub repositories to explore more projects.
+
 Featured Projects
 <table>
   <tr>
@@ -35,7 +35,7 @@ Featured Projects
     </td>
     <td width="50%" valign="top">
       <h3 align="center">DataFlow</h3>
-      <p align="center">A data processing web application for spreadsheet uploads, data transformations, dashboards, and data exploration.</p>
+      <p align="center">A data processing application for spreadsheet uploads, data transformations, dashboards, and data exploration.</p>
       <p align="center"><a href="https://excelprocess.netlify.app/">Open live demo</a></p>
     </td>
   </tr>
@@ -47,61 +47,71 @@ Featured Projects
     </td>
     <td width="50%" valign="top">
       <h3 align="center">More Projects</h3>
-      <p align="center">Browse my repositories for additional full-stack, AI/ML, and software development work.</p>
+      <p align="center">Explore more full-stack, AI/ML, and software development work in my public repositories.</p>
       <p align="center"><a href="https://github.com/swap1930?tab=repositories">Explore repositories</a></p>
     </td>
   </tr>
 </table>
 
+
 GitHub Analytics
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=swap1930&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swap1930&layout=compact&langs_count=8&hide_border=true" alt="Most used programming languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=swap1930&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub statistics for Swapnil" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swap1930&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
 </div>
 
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=swap1930&hide_border=true" alt="GitHub contribution streak" />
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=swap1930&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
 
-
-
-Contribution Calendar
 <div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=swap1930&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+
+Swapnil's Contribution Calendar
+<div align="center">
+  <h3>Public Contributions</h3>
+  <p><strong>A passionate developer, one contribution at a time.</strong></p>
+  <br />
   <a href="https://github.com/swap1930">
-    <img width="100%" src="https://ghchart.rshah.org/409ba5/swap1930" alt="GitHub-style contribution calendar for swap1930" />
+    <img width="100%" src="https://ghchart.rshah.org/39d353/swap1930" alt="GitHub-style contribution calendar for Swapnil Dudhane" />
   </a>
-  <p><sub>Contribution squares are generated from publicly available GitHub contribution data. Private contributions may not be represented.</sub></p>
+  <p><sub>Each square represents a day of public GitHub activity. Visit my GitHub profile for GitHub's official contribution details.</sub></p>
 </div>
+
 
 Languages, Frameworks and Tools
 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css" alt="Python, C, C++, JavaScript, TypeScript, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css&theme=dark" alt="Python, C, C++, JavaScript, TypeScript, HTML, and CSS" />
 </p>
 
 Frontend and Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma" alt="React, Next.js, Tailwind CSS, Flutter, and Figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma&theme=dark" alt="React, Next.js, Tailwind CSS, Flutter, and Figma" />
 </p>
 
 Backend and Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgres,firebase" alt="Node.js, Express, FastAPI, Flask, MongoDB, MySQL, PostgreSQL, and Firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,mysql,postgres,firebase&theme=dark" alt="Node.js, Express, FastAPI, Flask, MongoDB, MySQL, PostgreSQL, and Firebase" />
 </p>
 
 AI, Machine Learning and Data
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="PyTorch, TensorFlow, OpenCV, and scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="PyTorch, TensorFlow, OpenCV, and scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=58A6FF" alt="NumPy" />
 </p>
 
 Cloud, DevOps and Developer Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,postman,arduino" alt="Azure, Docker, Git, GitHub, Linux, Postman, and Arduino" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,linux,postman,arduino&theme=dark" alt="Azure, Docker, Git, GitHub, Linux, Postman, and Arduino" />
 </p>
+
 
 Current Goals
 - [ ] Strengthen DSA fundamentals and solve problems consistently.
@@ -110,26 +120,33 @@ Current Goals
 - [ ] Develop FocusOS through clear milestones and measurable performance goals.
 - [ ] Maintain consistent, meaningful GitHub contributions.
 - [ ] Write clear project documentation with setup instructions and demos.
+
 Connect With Me
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/swap_sd_30" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Profile-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/@swapnildudhane11" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/swap1930/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="mailto:swapnildudhane1930@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-</p>
+</div>
+
 
 <div align="center">
   <h2>Build. Learn. Improve. Repeat.</h2>
-  <p>Thanks for visiting my profile. Explore my repositories and feel free to connect.</p>
+  <p><strong>Thanks for visiting my profile.</strong></p>
+  <p>Explore my repositories and feel free to connect.</p>
 </div>
