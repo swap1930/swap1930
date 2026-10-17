@@ -9,7 +9,14 @@
 <p><strong>A passionate developer building practical solutions with Full Stack Development, AI, and Machine Learning.</strong></p>
 
 <a href="https://github.com/swap1930"><img src="https://img.shields.io/badge/GitHub-swap1930-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>  
+  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  </a>
 <a href="mailto:swapnildudhane1930@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>  
+<a href="https://leetcode.com/swap1930/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+ 
 <a href="https://instagram.com/swap_sd_30"><img src="https://img.shields.io/badge/Instagram-Profile-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram profile" /></a>
 </div>
 <br />
@@ -62,39 +69,6 @@ GitHub Analytics
 <div align="center">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=swap1930&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 </div>
-
-
-
-
-
-
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 230" role="img" aria-label="Swapnil Dudhane — Full Stack Developer and AI/ML Engineer">
-  <defs>
-    <pattern id="contributionDots" width="12" height="12" patternUnits="userSpaceOnUse">
-      <circle cx="4" cy="4" r="3" fill="#39d353"/>
-    </pattern>
-  </defs>
-
-  <rect width="900" height="230" rx="8" fill="#0d1117" stroke="#30363d"/>
-
-  <text x="450" y="95" text-anchor="middle"
-        font-family="monospace" font-size="49" font-weight="bold"
-        fill="url(#contributionDots)">SWAPNIL DUDHANE</text>
-
-  <text x="450" y="145" text-anchor="middle"
-        font-family="monospace" font-size="22" font-weight="bold"
-        fill="url(#contributionDots)">FULL STACK DEVELOPER</text>
-
-  <text x="450" y="180" text-anchor="middle"
-        font-family="monospace" font-size="22" font-weight="bold"
-        fill="url(#contributionDots)">AI/ML ENGINEER</text>
-</svg>
-
-</div>
-
-
 
 
 
