@@ -67,30 +67,9 @@ GitHub Analytics
 
 
 
-
-
+<!-- Save contribution-calendar.svg in the same repository as README.md -->
 <div align="center">
-
-  <h2>GitHub Contribution Calendar</h2>
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font= monospace&weight=700&size=32&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&lines=SWAPNIL+DUDHANE"
-    alt="Swapnil Dudhane"
-  />
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=monospace&weight=600&size=20&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer"
-    alt="Full Stack Developer and AI/ML Engineer"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://ghchart.rshah.org/2ea44f/swap1930"
-    alt="GitHub contribution squares"
-    width="100%"
-  />
-
+  <img src="./contribution-calendar.svg" alt="Swapnil Dudhane — Full Stack Developer and AI/ML Engineer, shown in green contribution-style dots" width="100%" />
 </div>
 
 
