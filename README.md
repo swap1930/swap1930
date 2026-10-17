@@ -64,9 +64,7 @@ GitHub Analytics
 </div>
 
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=swap1930&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
+
 
 
 Swapnil's Contribution Calendar
